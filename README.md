@@ -1,11 +1,11 @@
 # Concepts of Arrays in C#
 In C#, an array is a data structure that stores a fixed-size collection of elements of the same type. Arrays are zero-indexed, meaning the first element is always at index 0.<br>
 # Characteristics of Arrays
-.All elements in an array must be of the same data type
-.Memory is allocated contiguously
-.Each element is accessed using an index
-.Array size is usually fixed at the time of declaration
-.Arrays provide fast access to elements
+.All elements in an array must be of the same data type<br>
+.Memory is allocated contiguously<br>
+.Each element is accessed using an index<br>
+.Array size is usually fixed at the time of declaration<br>
+.Arrays provide fast access to elements<br>
 
 # 1. Single-Dimensional Array (1D)
 A 1D array is the simplest form, representing a linear list of items. Think of it as a single row of boxes, where each box has a number (index) and holds a value.
