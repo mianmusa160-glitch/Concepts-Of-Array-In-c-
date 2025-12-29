@@ -40,8 +40,8 @@ A 3D array adds a third dimension: depth (or layers). You can visualize it as a 
 
 <b>Structure:</b> [Layer, Row, Column]<br>
 # Applications of Arrays
-. Data processing
-. Searching and sorting algorithms
-. Mathematical operations
+. Data processing<br>
+. Searching and sorting algorithms<br>
+. Mathematical operations<br>
 . Database-like structures<br><hr>
 
