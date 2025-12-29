@@ -13,4 +13,12 @@ Visual: A spreadsheet or a grid.
 
 Syntax: type[,] arrayName;
 
-Analogy: A cinema hall where seats are arranged in rows and columns.
+Analogy: A cinema hall where seats are arranged in rows and columns.\
+# 3. Three-Dimensional Array (3D)
+A 3D array adds a third dimension: depth (or layers). You can visualize it as a cube, or a stack of 2D matrices (pages in a book). It is defined using two commas [,,].
+
+Visual: A Rubik's cube or a stack of spreadsheets.
+
+Syntax: type[,,] arrayName;
+
+Structure: [Layer, Row, Column]
