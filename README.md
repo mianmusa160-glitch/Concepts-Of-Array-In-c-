@@ -5,6 +5,12 @@ A 1D array is the simplest form, representing a linear list of items. Think of i
 
 Visual: A single row.
 
-Syntax: type[] arrayName;
+Syntax: type[] arrayName;<br>
+# 2. Two-Dimensional Array (2D)
+A 2D array is essentially a matrix or a table with rows and columns. It is defined using a single comma inside the square brackets [,].
 
-Example: Storing the scores of 5 students.
+Visual: A spreadsheet or a grid.
+
+Syntax: type[,] arrayName;
+
+Analogy: A cinema hall where seats are arranged in rows and columns.
